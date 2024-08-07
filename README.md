@@ -16,7 +16,7 @@ A Netflix clone built with React.js, showcasing a selection of movies and TV sho
 
 ## Demo
 
-[Link to live demo](#) (Replace with your project's live link if available)
+[Link to live demo](#) (https://react-netflix-clone.netlify.app/)
 
 ## Technologies Used
 
